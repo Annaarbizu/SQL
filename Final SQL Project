@@ -1,5 +1,5 @@
-#Final SQL Project questions and answers.
-
+#Final SQL Project.
+#In this SQL, I'm querying a database with multiple tables and answering questions.
 
 #Show Customers (their full names, customerID, and the country) who are not in the US.
 
